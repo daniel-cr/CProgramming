@@ -41,3 +41,6 @@
 
 # Work In Progress
 *.cpp
+
+# VSCode .json config files
+*.json
